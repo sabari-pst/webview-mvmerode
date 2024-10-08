@@ -229,7 +229,7 @@ public class MainActivityNew extends Activity {
             mWebView.loadUrl("https://school.kalvisalai.in/mvmerode/");
             //mWebView.loadUrl("https://www.amazon.in/");
             //mWebView.loadUrl("https://www.snapdeal.com/");
-            //mWebView.loadUrl("https://sarahtuckercollege.edu.in/");
+            //mWebView.loadUrl("https://sarahtucker.edu.in/");
 
         }catch (Exception er)
         {
